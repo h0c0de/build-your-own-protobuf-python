@@ -40,4 +40,4 @@ programatik, tanpa protoc).
 
 - [x] Semua uji irisan 1–3 hijau.
 - [x] README.md + CATATAN.md lengkap.
-- [ ] Terbit di github.com/h0c0de/build-your-own-protobuf-python
+- [x] Terbit di github.com/h0c0de/build-your-own-protobuf-python
